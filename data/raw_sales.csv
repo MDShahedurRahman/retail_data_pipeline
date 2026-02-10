@@ -1,0 +1,6 @@
+order_id,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,order_date,city
+101,C001,John Smith,P001,Laptop,Electronics,1,1200,2025-01-10,New York
+102,C002,Sarah Lee,P002,Headphones,Electronics,2,150,2025-01-11,Boston
+103,C001,John Smith,P003,Coffee Maker,Home Appliances,1,90,2025-01-15,New York
+104,C003,David Kim,P002,Headphones,Electronics,1,150,2025-02-01,Chicago
+105,C004,Amina Rahman,P004,Desk Chair,Furniture,2,200,2025-02-05,Dallas
