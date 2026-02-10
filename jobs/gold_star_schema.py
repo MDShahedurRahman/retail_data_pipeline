@@ -15,3 +15,4 @@ def build_star_schema(df, gold_path):
     )
 
     dim_customer.write.mode("overwrite").parquet(gold_path + "/dim_customer")
+    dim_product.write.mode("overwrite").parquet(gold_path + "/dim_product")
