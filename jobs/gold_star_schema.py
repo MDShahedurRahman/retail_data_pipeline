@@ -13,3 +13,5 @@ def build_star_schema(df, gold_path):
         "unit_price",
         "total_price"
     )
+
+    dim_customer.write.mode("overwrite").parquet(gold_path + "/dim_customer")
