@@ -213,3 +213,14 @@ output/
 ```
 
 ---
+
+## 📊 Example Business Insights
+
+This project can answer questions like:
+
+- Which product category generates the most revenue?
+- Who are the top customers by spending?
+- Which cities contribute the most sales revenue?
+- What is the total revenue per month?
+
+---
