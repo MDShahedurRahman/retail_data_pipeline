@@ -6,3 +6,20 @@ This project demonstrates how raw retail sales data can be ingested from CSV, cl
 It is designed as a **portfolio-quality backend data pipeline** that showcases real-world ETL workflows, Spark processing, and analytics-ready outputs.
 
 ---
+
+## 🚀 Project Overview
+
+Retail companies often receive large volumes of raw transactional data.  
+This pipeline processes sales data through three structured layers:
+
+- **Bronze Layer** → Raw ingestion (CSV → Parquet)
+- **Silver Layer** → Cleaned and enriched datasets
+- **Gold Layer** → Star Schema + analytics-ready fact/dimension tables
+
+Finally, the pipeline runs **business queries** to generate insights such as:
+
+- Top revenue categories
+- Highest spending customers
+- Revenue by city
+
+---
