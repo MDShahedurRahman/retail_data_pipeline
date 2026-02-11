@@ -99,3 +99,23 @@ order_id,customer_id,customer_name,product_id,product_name,category,quantity,uni
 - **Business Analytics Queries**
 
 ---
+
+## 🚀 Pipeline Jobs
+
+---
+
+### 🥉 Bronze Layer: Raw Ingestion
+
+**File:** `jobs/bronze_ingestion.py`
+
+- Reads raw CSV sales data
+- Applies schema validation
+- Writes raw Parquet output
+
+Output:
+
+```
+output/bronze/
+```
+
+---
