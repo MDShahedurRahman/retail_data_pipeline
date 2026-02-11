@@ -179,3 +179,37 @@ Furniture   → $400
 ```
 
 ---
+
+## ▶️ How to Run the Project
+
+---
+
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 2. Run the Full Pipeline
+
+```bash
+python main.py
+```
+
+---
+
+### 3. Output Layers
+
+After execution, you will see:
+
+```
+output/
+   bronze/
+   silver/
+   gold/
+   reports/
+```
+
+---
