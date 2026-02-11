@@ -88,7 +88,6 @@ order_id,customer_id,customer_name,product_id,product_name,category,quantity,uni
 
 ---
 
-
 ## ⚙️ Technologies Used
 
 - **Python**
@@ -237,7 +236,6 @@ This project can answer questions like:
 
 ---
 
-
 ## 📌 Future Enhancements
 
 - Integrate AWS S3 storage
@@ -247,3 +245,15 @@ This project can answer questions like:
 - Build dashboards in Power BI / Tableau
 
 ---
+
+## 👨‍💻 Author
+
+**Md Shahedur Rahman**  
+Master’s in Computer Science (NYU)  
+Data Engineering | PySpark | SQL | Cloud Pipelines  
+
+---
+
+## ⭐ If you found this useful
+
+Feel free to fork this project and expand it into a full cloud-based data platform.
