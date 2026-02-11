@@ -236,3 +236,14 @@ This project can answer questions like:
 - Git Commit Discipline
 
 ---
+
+
+## 📌 Future Enhancements
+
+- Integrate AWS S3 storage
+- Load Gold layer into Redshift or Snowflake
+- Add orchestration with Airflow
+- Add incremental processing
+- Build dashboards in Power BI / Tableau
+
+---
