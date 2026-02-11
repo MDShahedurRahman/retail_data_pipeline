@@ -159,3 +159,23 @@ output/gold/
 ```
 
 ---
+
+### 📊 Business Queries & Analytics
+
+**File:** `jobs/business_queries.py`
+
+Business insights generated:
+
+- Top Revenue Categories
+- Top Spending Customers
+- Revenue Breakdown by City
+
+Example Query Output:
+
+```
+Top Categories Revenue:
+Electronics → $1500
+Furniture   → $400
+```
+
+---
