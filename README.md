@@ -119,3 +119,22 @@ output/bronze/
 ```
 
 ---
+
+### 🥈 Silver Layer: Cleaning & Transformation
+
+**File:** `jobs/silver_cleaning.py`
+
+Key transformations:
+
+- Remove duplicates
+- Handle missing values
+- Convert dates into proper format
+- Add derived metric: `total_price`
+
+Output:
+
+```
+output/silver/
+```
+
+---
