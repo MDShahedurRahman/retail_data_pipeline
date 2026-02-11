@@ -87,3 +87,15 @@ order_id,customer_id,customer_name,product_id,product_name,category,quantity,uni
 ```
 
 ---
+
+
+## ⚙️ Technologies Used
+
+- **Python**
+- **PySpark**
+- **Parquet Storage Format**
+- **Medallion Architecture**
+- **Star Schema Modeling**
+- **Business Analytics Queries**
+
+---
