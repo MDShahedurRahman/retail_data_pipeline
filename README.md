@@ -23,3 +23,19 @@ Finally, the pipeline runs **business queries** to generate insights such as:
 - Revenue by city
 
 ---
+
+## 🏗 Architecture (Medallion Design)
+
+```
+Raw CSV Data
+     ↓
+Bronze Layer (Raw Parquet)
+     ↓
+Silver Layer (Clean + Enriched Parquet)
+     ↓
+Gold Layer (Star Schema Tables)
+     ↓
+Business Queries + Reports
+```
+
+---
