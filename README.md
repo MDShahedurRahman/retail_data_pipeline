@@ -71,3 +71,19 @@ retail_data_pipeline/
 ```
 
 ---
+
+## 📌 Data Source
+
+The pipeline uses a sample retail dataset:
+
+`data/raw_sales.csv`
+
+Example:
+
+```csv
+order_id,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,order_date,city
+101,C001,John Smith,P001,Laptop,Electronics,1,1200,2025-01-10,New York
+102,C002,Sarah Lee,P002,Headphones,Electronics,2,150,2025-01-11,Boston
+```
+
+---
