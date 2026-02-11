@@ -224,3 +224,15 @@ This project can answer questions like:
 - What is the total revenue per month?
 
 ---
+
+## 🧠 Concepts Demonstrated
+
+- End-to-End ETL Pipeline Design
+- Spark DataFrame Transformations
+- Parquet-based Data Lake Storage
+- Medallion Data Architecture (Bronze/Silver/Gold)
+- Star Schema Modeling
+- Business Intelligence Querying
+- Git Commit Discipline
+
+---
